@@ -1,0 +1,106 @@
+body{
+    background-color: #e8e8e8;
+}
+ 
+img{
+    align-self: auto;
+    
+}
+/*.square{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+}*/
+
+}
+.student{
+    align="left: ";
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}
+
+  .fa-facebook {
+    background: #e8e8e8;
+    color: #0d23ec;
+  }
+
+  .fa-twitter {
+    background: #e8e8e8;
+    color: #10a4c9;
+  }
+
+.fa-linkedin {
+    background: #e8e8e8;
+    color: #0e1ab9;
+  }
+
+.fa-instagram {
+    background: #e8e8e8;
+    color: #d80971;
+  }
+
+#right {
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.square{
+    height: 700px;
+    width: 900px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+  }
+.card{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 2rem;
+    margin-top:4rem;
+}
+.card1{
+    margin-top: auto;
+}
+.my-button {
+    background-color: hsl(60, 64%, 53%);
+    border: none;
+    color: black;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+.my-button:hover{
+     background-color: yellow;
+}
+
+.profile{
+    width: 300px;
+    height: 300px;
+
+}
+.card{
+    margin-left: 2.5rem;
+}
+.profile{
+    border: 20px solid #ccc; /* Add a 2-pixel-wide solid border with a light gray color */
+    border-radius: 20px; /* Set the border radius to create rounded edges on the square */
+    width: 300px; /* Set the width of the image to 100 pixels */
+    height: 300px; /* Set the height of the image to 100 pixels */
+  }
+  
